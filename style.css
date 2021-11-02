@@ -1,0 +1,11 @@
+.muestra-productos{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 56, 149);
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.muestra-productos:hover{
+    transform: translateY(-5px);
+}
