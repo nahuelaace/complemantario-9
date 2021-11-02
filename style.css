@@ -9,3 +9,7 @@
 .muestra-productos:hover{
     transform: translateY(-5px);
 }
+
+.muestra-productos{
+    background-color: rgb(252, 219, 113);
+}
